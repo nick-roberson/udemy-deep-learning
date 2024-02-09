@@ -23,8 +23,8 @@ $ jupyter notebook
 
 [I 2024-02-09 11:54:07.465 ServerApp] Serving notebooks from local directory: /Users/nicholas/Code/udemy/deep_learning
 [I 2024-02-09 11:54:07.465 ServerApp] Jupyter Server 2.10.0 is running at:
-[I 2024-02-09 11:54:07.465 ServerApp] http://localhost:8888/tree?token=763e6ad9eaa4be396ccaf760a22957de88cdc510f43b840c
-[I 2024-02-09 11:54:07.465 ServerApp]     http://127.0.0.1:8888/tree?token=763e6ad9eaa4be396ccaf760a22957de88cdc510f43b840c
+[I 2024-02-09 11:54:07.465 ServerApp] http://localhost:8888/tree?token=<some uuid>
+[I 2024-02-09 11:54:07.465 ServerApp]     http://127.0.0.1:8888/tree?token=<some uuid>
 [I 2024-02-09 11:54:07.465 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [C 2024-02-09 11:54:07.469 ServerApp] 
     
